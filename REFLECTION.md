@@ -12,3 +12,9 @@ Here is a sample entry (delete this line; also: feel free to copy/paste/modify):
 1. No work has been done on the project directly except looking up the games and how to potentially do them.
 2. Before the next deadline i plan to decide what game to do and start some of the methods.
 3. I plan on making branches for the visual aspects of the game and the backend code seperately and maybe one for updates on files too.
+
+## Deadline 2 - THURS 2020-12-08 (Dec 08)
+
+1. I have made a Board and element file to make a grid and the elements or rectangles of the grid.
+2. Before the next deadline i plan to have my main tetris game ready as well ad all the shapes involved in playing the game.
+3. So far the only issues ive had is figuring out how to branch merge but also run my project.
