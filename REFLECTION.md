@@ -15,6 +15,6 @@ Here is a sample entry (delete this line; also: feel free to copy/paste/modify):
 
 ## Deadline 2 - THURS 2020-12-08 (Dec 08)
 
-1. I have made a Board and element file to make a grid and the elements or rectangles of the grid.
+1. I have made a Board and element file to make a grid and the elements or rectangles of the grid and also started the actual game code called tetrisGame
 2. Before the next deadline i plan to have my main tetris game ready as well ad all the shapes involved in playing the game.
 3. So far the only issues ive had is figuring out how to branch merge but also run my project.
